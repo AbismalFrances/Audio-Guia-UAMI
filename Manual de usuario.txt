@@ -1,0 +1,5 @@
+Para acceder a la aplicación es necesario registrarse en el campo Nuevo usuario
+Una vez registrado, inicie sesión en el campo Iniciar sesión
+Presione el botón y diga el destino al cual quiera ir.
+Los destinos permitidos son: Edificio A, Edificio H, Edificio B, Edificio C, Edificio L, Edificio T, Edificio AT, Edificio K y Edificio M. 
+Si desea indicar otro destino, vuelva a presionar el botón.
